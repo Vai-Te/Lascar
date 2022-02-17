@@ -1,0 +1,11 @@
+bs4==0.0.1
+torrequest==0.1.0
+beautifulsoup4==4.10.0
+Cython==0.29.27
+discord.py==1.7.3
+wfuzz==3.1.0
+playwright==1.17.2
+pyfiglet==0.8.post1
+wafw00f==2.1.0
+scikit_learn==1.0.2
+selenium==4.1.0
