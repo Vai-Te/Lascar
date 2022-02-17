@@ -22,7 +22,7 @@ def getArgs():
 
 def main():
     args = getArgs()
-    figlet = Figlet(font="acrobat")
+    figlet = Figlet(font="acrobatic")
     print(figlet.renderText("Py2Malbolge"))
 
     if args.file and args.text:
